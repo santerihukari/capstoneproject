@@ -44,10 +44,10 @@ This project aims to meet the following requirements:
 
 9. **Timely Submission**:
    - Final project is completed and polished by deadline, including:
-   - Code
-   - README
-   - Documentation
-   - Demo video
+     - Code
+     - README
+     - Documentation
+     - Demo video
 
 ## Timeline
 - **Start Date**: 05.03.2025
