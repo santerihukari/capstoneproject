@@ -2,6 +2,12 @@
 
 This project is completed as a requirement for the course **COMP.CS.530-2024-2025-2 Capstone Project on LLM Fine-Tuning** at **Tampere University**. It explores how **multiple AI agents** can collaborate to assist in software development tasks, such as requirement analysis, code generation, testing, and compliance. The goal is to create a system where specialized AI agents work together seamlessly to solve complex development challenges.
 
+## End Goal
+Build a **proof-of-concept multi-agent AI system** that:
+1. Analyzes requirements and generates specifications.
+2. Writes and reviews code using specialized agents.
+3. Optimizes performance and ensures compliance.
+
 ## Project Goals
 
 This project aims to meet the following requirements:
