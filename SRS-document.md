@@ -35,7 +35,6 @@ The project aims to design and implement a **multi-agent AI system** for softwar
 **Note**: This is a **preliminary version** of the SRS document and will be refined further as the project progresses and more details are finalized.
 
 
-![image](usecasediagram.png)
-![alt text](usecasediagram.png "Title")
+![usecasediagram](usecasediagram.png)
 
 
